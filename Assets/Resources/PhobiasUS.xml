@@ -1,6 +1,6 @@
 
 <ContentPack xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <name>PhobiasUS</name>
+  <name>US-Top Fears</name>
   <deck>
     <Card>
       <name>All U.S. Deaths</name>

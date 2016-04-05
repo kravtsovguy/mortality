@@ -1,4 +1,4 @@
-﻿//Written By Amr Zewail
+//Written By Amr Zewail
 //Copyright 2015-2016
 //Kalponic Games
 //-----------------------
@@ -40,8 +40,8 @@ public class CardInformation : MonoBehaviour{
         timeScale.text = cc.card.time_scale;
         definition.text = cc.card.definition;
         source.text = cc.card.source;
-        location.sprite = CSprite.LoadSprite("Icons/" + cc.card.location);
-        image.sprite = CSprite.LoadSprite("Icons/"+cc.card.image);
+        location.sprite = CSprite.LoadSprite("M_Icons/" + cc.card.location);
+        image.sprite = CSprite.LoadSprite("M_Icons/"+cc.card.image);
     }
     void Update()
     {
