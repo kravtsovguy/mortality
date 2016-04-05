@@ -1,0 +1,113 @@
+fileFormatVersion: 2
+guid: eadbbe4493944564e8b7ef3fecf616dc
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: CoverFlip_0
+    21300002: CoverFlip_1
+    21300004: CoverFlip_2
+    21300006: CoverFlip_3
+    21300008: CoverFlip_4
+    21300010: CoverFlip_5
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: CoverFlip_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 362
+        width: 489
+        height: 556
+      alignment: 4
+      pivot: {x: 0, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CoverFlip_1
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 307
+        width: 432
+        height: 643
+      alignment: 4
+      pivot: {x: 0, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CoverFlip_2
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 231
+        width: 342
+        height: 780
+      alignment: 4
+      pivot: {x: 0, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CoverFlip_3
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 165
+        width: 231
+        height: 917
+      alignment: 4
+      pivot: {x: 0, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CoverFlip_4
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 58
+        width: 129
+        height: 1150
+      alignment: 4
+      pivot: {x: 0, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CoverFlip_5
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 1
+        width: 40
+        height: 1293
+      alignment: 4
+      pivot: {x: 0, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

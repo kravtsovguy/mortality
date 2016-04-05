@@ -1,0 +1,120 @@
+
+<ContentPack xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <name>US-Top Killers</name>
+  <deck>
+    <Card>
+      <name>All U.S. Deaths</name>
+      <source>CDC ('13)</source>
+      <mortality>2596993</mortality>
+      <definition>Deaths from all causes in the U.S. per year.</definition>
+      <time_scale>per year /</time_scale>
+      <location>US</location>
+      <image>All US Deaths</image>
+      <resource></resource>
+    </Card>
+    <Card>
+      <name>Heart Disease</name>
+      <source>CDC ('13)</source>
+      <mortality>611105</mortality>
+      <definition>Deaths from diseases of the heart, including "heart attacks," coronary (ischemic) heart disease and hypertension.</definition>
+      <time_scale>per year /</time_scale>
+      <location>US</location>
+      <image>Heart Disease</image>
+      <resource>http://www.cdc.gov/heartdisease/</resource>
+    </Card>
+
+    <Card>
+      <name>All Cancers</name>
+      <source>CDC ('13)</source>
+      <mortality>584881</mortality>
+      <definition>This includes all cancers. Cancer is a disease where abnormal cells divide uncontrollably and invade other cells.</definition>
+      <time_scale>per year /</time_scale>
+      <location>US</location>
+      <image>All Cancers</image>
+      <resource>http://www.cdc.gov/cancer/dcpc/prevention/index.htm</resource>
+    </Card>
+    
+    <Card>
+      <name>Chronic Lower Respiratory Diseases</name>
+      <source>CDC ('13)</source>
+      <mortality>149205</mortality>
+      <definition>Refers to a group of diseases that cause airflow blockage and breathing problems. Includes emphysema, chronic bronchitis, and some asthmas.</definition>
+      <time_scale>per year /</time_scale>
+      <location>US</location>
+      <image>Chronic Lower Respiratory Diseases</image>
+      <resource>http://www.cdc.gov/copd/index.html</resource>
+    </Card>
+    
+    <Card>
+      <name>All Accidents</name>
+      <source>CDC ('13)</source>
+      <mortality>130557</mortality>
+      <definition>All deaths from unintentional injuries.</definition>
+      <time_scale>per year /</time_scale>
+      <location>US</location>
+      <image>All Accidents</image>
+      <resource>http://www.cdc.gov/injury/</resource>
+    </Card>
+    <Card>
+      <name>Stroke</name>
+      <source>CDC ('13)</source>
+      <mortality>128978</mortality>
+      <definition>A stroke occurs when the blood supply to the brain is blocked, or a blood vessel ruptures. Includes ischemic and hemorrhagic stroke.</definition>
+      <time_scale>per year /</time_scale>
+      <location>US</location>
+      <image>Stroke</image>
+      <resource>http://www.cdc.gov/stroke/</resource>
+    </Card>
+    <Card>
+      <name>Alzheimer’s Disease</name>
+      <source>CDC ('13)</source>
+      <mortality>84767</mortality>
+      <definition>A progressive cognitive disease that begins with mild memory loss. At final stages of the disease, bodily functions like swallowing can begin to fail.</definition>
+      <time_scale>per year /</time_scale>
+      <location>US</location>
+      <image>Alzheimer’s Disease</image>
+      <resource>http://www.cdc.gov/aging/aginginfo/alzheimers.htm</resource>
+    </Card>
+
+    <Card>
+      <name>Diabetes</name>
+      <source>CDC ('13)</source>
+      <mortality>75578</mortality>
+      <definition>Any of the group of metabolic diseases that cause long-term high blood sugar.</definition>
+      <time_scale>per year /</time_scale>
+      <location>US</location>
+      <image>Diabetes</image>
+      <resource>http://www.cdc.gov/diabetes/home/</resource>
+    </Card>
+    <Card>
+      <name>Pneumonia and Flu</name>
+      <source>CDC ('13)</source>
+      <mortality>53282</mortality>
+      <definition>A lung inflammation caused by bacterial or viral infection (including influenza or “flu”), where the lungs fill with fluid.</definition>
+      <time_scale>per year /</time_scale>
+      <location>US</location>
+      <image>Pneumonia and Flu</image>
+      <resource>http://www.cdc.gov/pneumonia/</resource>
+    </Card>
+    <Card>
+      <name>Nephritis</name>
+      <source>CDC(’13)</source>
+      <mortality>47112</mortality>
+      <definition>Kidney diseases including nephritis, nephrotic syndrome, and nephrosis.</definition>
+      <time_scale>per year /</time_scale>
+      <location>US</location>
+      <image>Nephritis</image>
+      <resource>http://www.cdc.gov/nchs/fastats/kidney-disease.htm</resource>
+    </Card>
+    <Card>
+      <name>Suicide</name>
+      <source>CDC(’13)</source>
+      <mortality>41149</mortality>
+      <definition>Intentional self-harm that results in death.</definition>
+      <time_scale>per year /</time_scale>
+      <location>US</location>
+      <image>Suicide</image>
+      <resource>http://www.cdc.gov/violenceprevention/suicide/</resource>
+    </Card>
+  </deck>
+</ContentPack>

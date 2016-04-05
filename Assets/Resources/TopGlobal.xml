@@ -1,0 +1,116 @@
+
+<ContentPack xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <name>Global-Top Killers</name>
+  <deck>
+    <Card>
+      <name>All Global Deaths</name>
+      <source>WHO ('12)</source>
+      <mortality>55843142</mortality>
+      <definition>Global deaths from all causes each year.</definition>
+      <time_scale>per year /</time_scale>
+      <location>Global</location>
+      <image>All Deaths Worldwide</image>
+      <resource>http://apps.who.int/gho/data/node.main.CODWORLD?lang=en</resource>
+    </Card>
+    <Card>
+      <name>Heart Disease</name>
+      <source>WHO ('12)</source>
+      <mortality>8830333</mortality>
+      <definition>Deaths from diseases of the heart, including "heart attacks," coronary (ischemic) heart disease and hypertension.</definition>
+      <time_scale>per year /</time_scale>
+      <location>Global</location>
+      <image>Heart Disease</image>
+      <resource>http://apps.who.int/gho/data/node.main.CODWORLD?lang=en</resource>
+    </Card>
+    <Card>
+      <name>Air Pollution</name>
+      <source>WHO ('12)</source>
+      <mortality>7000000</mortality>
+      <definition>All deaths—including from lung cancer, COPD, and heart attack—resulting from exposure to air pollution.</definition>
+      <time_scale>per year /</time_scale>
+      <location>Global</location>
+      <image>Air Pollution</image>
+      <resource>http://www.who.int/mediacentre/news/releases/2014/air-pollution/en/</resource>
+    </Card>
+    <Card>
+      <name>Stroke</name>
+      <source>WHO ('12)</source>
+      <mortality>6669383</mortality>
+      <definition>A stroke occurs when the blood supply to the brain is blocked, or a blood vessel ruptures. Includes ischemic and hemorrhagic stroke.</definition>
+      <time_scale>per year /</time_scale>
+      <location>Global</location>
+      <image>Stroke</image>
+      <resource>http://apps.who.int/gho/data/node.main.CODWORLD?lang=en</resource>
+    </Card>    
+    <Card>
+      <name>Lower Respiratory Infections</name>
+      <source>WHO ('12)</source>
+      <mortality>3051318</mortality>
+      <definition>Deaths from lower respiratory infections, including flu, pneumonia, and tuberculosis.</definition>
+      <time_scale>per year /</time_scale>
+      <location>Global</location>
+      <image>Chronic Lower Respiratory Diseases</image>
+      <resource>http://apps.who.int/gho/data/node.main.CODWORLD?lang=en</resource>
+    </Card>
+    <Card>
+      <name>HIV/AIDS</name>
+      <source>WHO ('12)</source>
+      <mortality>1533760</mortality>
+      <definition>All deaths resulting from infection with human immunodeficiency virus (HIV), including the condition of Acquired Immunodeficiency Syndrome (AIDS).</definition>
+      <time_scale>per year /</time_scale>
+      <location>Global</location>
+      <image>HIV</image>
+      <resource>http://apps.who.int/gho/data/node.main.CODWORLD?lang=en</resource>
+    </Card>
+    <Card>
+      <name>Lung Cancer</name>
+      <source>WHO ('12)</source>
+      <mortality>1599311</mortality>
+      <definition>Deaths from cancer of the lung.</definition>
+      <time_scale>per year /</time_scale>
+      <location>Global</location>
+      <image>Lung Cancer</image>
+      <resource>http://apps.who.int/gho/data/node.main.CODWORLD?lang=en</resource>
+    </Card>
+    <Card>
+      <name>Road Injury</name>
+      <source>WHO ('12)</source>
+      <mortality>1254435</mortality>
+      <definition>Deaths as a result of road traffic crashes, including of people in motor vehicles, buses, pedestrians, cyclists, motorcyclists.</definition>
+      <time_scale>per year /</time_scale>
+      <location>Global</location>
+      <image>Road-Related Deaths</image>
+      <resource>http://apps.who.int/gho/data/node.main.CODWORLD?lang=en</resource>
+    </Card>
+    <Card>
+      <name>Diarrhea</name>
+      <source>WHO ('12)</source>
+      <mortality>1497674</mortality>
+      <definition>Deaths as a result of diarrheal illnesses.</definition>
+      <time_scale>per year /</time_scale>
+      <location>Global</location>
+      <image>Diarrhea</image>
+      <resource>http://apps.who.int/gho/data/node.main.CODWORLD?lang=en</resource>
+    </Card>
+    <Card>
+      <name>Diabetes</name>
+      <source>WHO ('12)</source>
+      <mortality>1496806</mortality>
+      <definition>Any of the group of metabolic diseases that cause long-term high blood sugar.</definition>
+      <time_scale>per year /</time_scale>
+      <location>Global</location>
+      <image>Diabetes</image>
+      <resource>http://apps.who.int/gho/data/node.main.CODWORLD?lang=en</resource>
+    </Card>
+    <Card>
+      <name>Low Birth Weight</name>
+      <source>WHO ('12)</source>
+      <mortality>1134954</mortality>
+      <definition>Deaths resulting from low birth weight, including premature birth.</definition>
+      <time_scale>per year /</time_scale>
+      <location>Global</location>
+      <image>Low Birth Weight</image>
+        <resource>http://apps.who.int/gho/data/node.main.CODWORLD?lang=en</resource>
+    </Card>
+  </deck>
+</ContentPack>

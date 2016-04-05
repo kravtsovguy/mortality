@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="windows-1256"?>
+<AllStats xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <stats>
+    <Stats>
+      <cardsPlaced>9</cardsPlaced>
+      <correct>4</correct>
+      <longestStreak>1</longestStreak>
+      <timeElapsed>6.484039</timeElapsed>
+      <grade>Not Bad</grade>
+    </Stats>
+    <Stats>
+      <cardsPlaced>9</cardsPlaced>
+      <correct>1</correct>
+      <longestStreak>1</longestStreak>
+      <timeElapsed>39.9716873</timeElapsed>
+      <grade>Try Again</grade>
+    </Stats>
+    <Stats>
+      <cardsPlaced>9</cardsPlaced>
+      <correct>1</correct>
+      <longestStreak>1</longestStreak>
+      <timeElapsed>24.9552231</timeElapsed>
+      <grade>Try Again</grade>
+    </Stats>
+    <Stats>
+      <cardsPlaced>9</cardsPlaced>
+      <correct>2</correct>
+      <longestStreak>1</longestStreak>
+      <timeElapsed>5.32428265</timeElapsed>
+      <grade>Try Again</grade>
+    </Stats>
+    <Stats>
+      <cardsPlaced>9</cardsPlaced>
+      <correct>2</correct>
+      <longestStreak>1</longestStreak>
+      <timeElapsed>7.407327</timeElapsed>
+      <grade>Try Again</grade>
+    </Stats>
+    <Stats>
+      <cardsPlaced>9</cardsPlaced>
+      <correct>3</correct>
+      <longestStreak>1</longestStreak>
+      <timeElapsed>5.22538233</timeElapsed>
+      <grade>Not Bad</grade>
+    </Stats>
+    <Stats>
+      <cardsPlaced>9</cardsPlaced>
+      <correct>3</correct>
+      <longestStreak>1</longestStreak>
+      <timeElapsed>7.461528</timeElapsed>
+      <grade>Not Bad</grade>
+    </Stats>
+    <Stats>
+      <cardsPlaced>9</cardsPlaced>
+      <correct>2</correct>
+      <longestStreak>2</longestStreak>
+      <timeElapsed>5.641126</timeElapsed>
+      <grade>Try Again</grade>
+    </Stats>
+    <Stats>
+      <cardsPlaced>9</cardsPlaced>
+      <correct>3</correct>
+      <longestStreak>3</longestStreak>
+      <timeElapsed>5.324141</timeElapsed>
+      <grade>Not Bad</grade>
+    </Stats>
+    <Stats>
+      <cardsPlaced>9</cardsPlaced>
+      <correct>4</correct>
+      <longestStreak>1</longestStreak>
+      <timeElapsed>5.71966743</timeElapsed>
+      <grade>Not Bad</grade>
+    </Stats>
+    <Stats>
+      <cardsPlaced>9</cardsPlaced>
+      <correct>2</correct>
+      <longestStreak>1</longestStreak>
+      <timeElapsed>5.360106</timeElapsed>
+      <grade>Try Again</grade>
+    </Stats>
+    <Stats>
+      <cardsPlaced>9</cardsPlaced>
+      <correct>1</correct>
+      <longestStreak>1</longestStreak>
+      <timeElapsed>21.1242943</timeElapsed>
+      <grade>Try Again</grade>
+    </Stats>
+    <Stats>
+      <cardsPlaced>9</cardsPlaced>
+      <correct>2</correct>
+      <longestStreak>1</longestStreak>
+      <timeElapsed>14.4239044</timeElapsed>
+      <grade>Try Again</grade>
+    </Stats>
+    <Stats>
+      <cardsPlaced>29</cardsPlaced>
+      <correct>6</correct>
+      <longestStreak>3</longestStreak>
+      <timeElapsed>38.198967</timeElapsed>
+      <grade>Try Again</grade>
+    </Stats>
+    <Stats>
+      <cardsPlaced>29</cardsPlaced>
+      <correct>1</correct>
+      <longestStreak>1</longestStreak>
+      <timeElapsed>38.38011</timeElapsed>
+      <grade>Try Again</grade>
+    </Stats>
+    <Stats>
+      <cardsPlaced>32</cardsPlaced>
+      <correct>5</correct>
+      <longestStreak>2</longestStreak>
+      <timeElapsed>15.7512169</timeElapsed>
+      <grade>Try Again</grade>
+    </Stats>
+    <Stats>
+      <cardsPlaced>9</cardsPlaced>
+      <correct>2</correct>
+      <longestStreak>2</longestStreak>
+      <timeElapsed>5.60952568</timeElapsed>
+      <grade>Try Again</grade>
+    </Stats>
+    <Stats>
+      <cardsPlaced>9</cardsPlaced>
+      <correct>1</correct>
+      <longestStreak>1</longestStreak>
+      <timeElapsed>5.05891848</timeElapsed>
+      <grade>Try Again</grade>
+    </Stats>
+    <Stats>
+      <cardsPlaced>9</cardsPlaced>
+      <correct>3</correct>
+      <longestStreak>3</longestStreak>
+      <timeElapsed>5.79417324</timeElapsed>
+      <grade>Not Bad</grade>
+    </Stats>
+    <Stats>
+      <cardsPlaced>9</cardsPlaced>
+      <correct>3</correct>
+      <longestStreak>2</longestStreak>
+      <timeElapsed>5.93314838</timeElapsed>
+      <grade>Not Bad</grade>
+    </Stats>
+  </stats>
+</AllStats>

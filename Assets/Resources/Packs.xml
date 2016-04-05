@@ -1,0 +1,24 @@
+<Packs xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <packs>
+    <ContentPack>
+	  <file>PhobiasUS</file>
+      <name>US-Top Fears</name>
+      <license>Free</license>
+    </ContentPack>
+    <ContentPack>
+	  <file>SamplerUS</file>
+      <name>US-Sampler</name>
+      <license>Free</license>
+    </ContentPack>
+    <ContentPack>
+	  <file>TopGlobal</file>
+      <name>Global-Top Killers</name>
+      <license>Buy</license>
+    </ContentPack>
+    <ContentPack>
+	  <file>TopUS</file>
+      <name>US-Top Killers</name>
+      <license>Free</license>
+    </ContentPack>
+  </packs>
+</Packs>

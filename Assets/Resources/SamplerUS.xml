@@ -1,0 +1,216 @@
+
+<ContentPack xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <name>US-Sampler</name>
+  <deck>
+    <Card>
+      <name>All U.S. Deaths</name>
+      <source>CDC ('13)</source>
+      <mortality>2596993</mortality>
+      <definition>Deaths from all causes in the U.S. per year.</definition>
+      <time_scale>per year /</time_scale>
+      <location>US</location>
+      <image>All US Deaths</image>
+      <resource></resource>
+    </Card>
+    <Card>
+      <name>Air Pollution</name>
+      <source>Research Study(’05)</source>
+      <mortality>200000</mortality>
+      <definition>All deaths—including from lung cancer, COPD, and heart attack—resulting from exposure to air pollution.</definition>
+      <time_scale>per year /</time_scale>
+      <location>US</location>
+      <image>Air Pollution</image>
+      <resource>http://www.sciencedirect.com/science/article/pii/S1352231013004548</resource>
+    </Card>
+    <Card>
+      <name>Drugs</name>
+      <source>CDC(’13)</source>
+      <mortality>46471</mortality>
+      <definition>All deaths from drug-induced disorders, including prescription-drug side effects and drug withdrawal. Excludes accidents and homicides.</definition>
+      <time_scale>per year /</time_scale>
+      <location>US</location>
+      <image>Drug-Induced Deaths</image>
+      <resource>http://www.cdc.gov/nchs/data/nvsr/nvsr64/nvsr64_02.pdf</resource>
+    </Card>
+    <Card>
+      <name>Accidental Poisoning</name>
+      <source>CDC(’13)</source>
+      <mortality>38851</mortality>
+      <definition>All unintentional exposure to poisonous, toxic, or noxious substances, including household cleaning materials, industrial chemicals, and pesticides.</definition>
+      <time_scale>per year /</time_scale>
+      <location>US</location>
+      <image>Accidental Poisoning</image>
+      <resource>http://www.cdc.gov/nchs/data/nvsr/nvsr64/nvsr64_02.pdf</resource>
+    </Card>
+    <Card>
+      <name>Motor Vehicle Accidents</name>
+      <source>CDC(’13)</source>
+      <mortality>35369</mortality>
+      <definition>Unintended collision of a motor vehicle with another vehicle, an object, or a person.</definition>
+      <time_scale>per year /</time_scale>
+      <location>US</location>
+      <image>Motor Vehicle Accidents</image>
+      <resource>http://www.cdc.gov/nchs/data/nvsr/nvsr64/nvsr64_02.pdf</resource>
+    </Card>
+    <Card>
+      <name>Firearms</name>
+      <source>CDC(’13)</source>
+      <mortality>33636</mortality>
+      <definition>Unintentional and intentional fatal injury by firearms.</definition>
+      <time_scale>per year /</time_scale>
+      <location>US</location>
+      <image>Firearms</image>
+      <resource>http://www.cdc.gov/nchs/data/nvsr/nvsr64/nvsr64_02.pdf</resource>
+    </Card>
+    <Card>
+      <name>Alcohol</name>
+      <source>CDC(’13)</source>
+      <mortality>29001</mortality>
+      <definition>All deaths from alcohol-induced disorders, including cirrhosis of the liver and alcohol withdrawal. Excludes accidents and homicides.</definition>
+      <time_scale>per year /</time_scale>
+      <location>US</location>
+      <image>Alcohol-Induced Deaths</image>
+      <resource>http://www.cdc.gov/nchs/data/nvsr/nvsr64/nvsr64_02.pdf</resource>
+    </Card>
+    <Card>
+      <name>Radon Exposure</name>
+      <source>EPA(’03)</source>
+      <mortality>21000</mortality>
+      <definition>Radon is an odorless and invisible radioactive gas that causes lung cancer. 1 out of every 15 U.S. homes has elevated radon levels.</definition>
+      <time_scale>per year /</time_scale>
+      <location>US</location>
+      <image>Radon Exposure</image>
+      <resource>https://www.epa.gov/radon</resource>
+    </Card>
+    <Card>
+      <name>HIV/AIDS</name>
+      <source>CDC(’13)</source>
+      <mortality>6955</mortality>
+      <definition>All deaths resulting from infection with human immunodeficiency virus (HIV), including the condition of Acquired Immunodeficiency Syndrome (AIDS).</definition>
+      <time_scale>per year /</time_scale>
+      <location>US</location>
+      <image>HIV</image>
+      <resource>http://www.cdc.gov/nchs/data/nvsr/nvsr64/nvsr64_02.pdf</resource>
+    </Card>
+    <Card>
+      <name>Pedestrian Accidents</name>
+      <source>CDC(’13)</source>
+      <mortality>4590</mortality>
+      <definition>Unintended collision of a motor vehicle or bicycle with a pedestrian.</definition>
+      <time_scale>per year /</time_scale>
+      <location>US</location>
+      <image>Pedestrian Accidents</image>
+      <resource>http://www.cdc.gov/nchs/data/nvsr/nvsr64/nvsr64_02.pdf</resource>
+    </Card>
+    <Card>
+      <name>All Workplace Injuries</name>
+      <source>CDC(’13)</source>
+      <mortality>4585</mortality>
+      <definition>Fatal injuries suffered at the workplace.</definition>
+      <time_scale>per year /</time_scale>
+      <location>US</location>
+      <image>Workplace Fatalities</image>
+      <resource>http://www.cdc.gov/nchs/data/nvsr/nvsr64/nvsr64_02.pdf</resource>
+    </Card>
+    <Card>
+      <name>Motorcycle Accidents</name>
+      <source>CDC(’13)</source>
+      <mortality>4531</mortality>
+      <definition>Unintended collision of a motorcycle with another vehicle, an object, or a person.</definition>
+      <time_scale>per year /</time_scale>
+      <location>US</location>
+      <image>Motorcycle Accidents</image>
+      <resource>http://www.cdc.gov/nchs/data/nvsr/nvsr64/nvsr64_02.pdf</resource>
+    </Card>
+    <Card>
+      <name>Bicycle Accidents</name>
+      <source>CDC(’13)</source>
+      <mortality>709</mortality>
+      <definition>Unintended collision of a bicycle with a motor vehicle, an object, or a person.</definition>
+      <time_scale>per year /</time_scale>
+      <location>US</location>
+      <image>Bicycle Accidents</image>
+      <resource>http://www.cdc.gov/nchs/data/nvsr/nvsr64/nvsr64_02.pdf</resource>
+    </Card>    
+	<Card>
+      <name>Carbon Monoxide</name>
+      <source>CDC ('99-'10)</source>
+      <mortality>430</mortality>
+      <definition>Deaths from unintentional, non-fire-related inhalation of carbon monoxide, an odorless and invisible gas.</definition>
+      <time_scale>per year /</time_scale>
+      <location>US</location>
+      <image>Bicycle Accidents</image>
+      <resource>http://www.cdc.gov/mmwr/preview/mmwrhtml/mm6303a6.htm</resource>
+    </Card> 
+    <Card>
+      <name>Skydiving</name>
+      <source>USPA(’04-’14)</source>
+      <mortality>23</mortality>
+      <definition>All deaths of persons who intentionally leap from an airplane with the plan of using a parachute to land safely.</definition>
+      <time_scale>per year /</time_scale>
+      <location>US</location>
+      <image>Skydiving</image>
+      <resource>http://www.uspa.org/AboutSkydiving/SkydivingSafety/tabid/526/Default.aspx</resource>
+    </Card>   
+    <Card>
+      <name>Toys</name>
+      <source>CPSC(’11-’13)</source>
+      <mortality>13</mortality>
+      <definition>Deaths resulting from all toys, including balloons, tricycles, and stuffed animals.</definition>
+      <time_scale>per year /</time_scale>
+      <location>US</location>
+      <image>Toys</image>
+      <resource>http://www.cpsc.gov/Global/Research-and-Statistics/Injury-Statistics/Toys/ToyReport2014.pdf</resource>
+    </Card>
+    <Card>
+      <name>Window Cords</name>
+      <source>CPSC(’96-’12)</source>
+      <mortality>12</mortality>
+      <definition>Unintentional fatal injuries resulting from strangulation on window covering cords.</definition>
+      <time_scale>per year /</time_scale>
+      <location>US</location>
+      <image>Window Cords</image>
+      <resource>http://www.cpsc.gov/en/Safety-Education/Safety-Education-Centers/Window-Covering/</resource>
+    </Card>
+    <Card>
+      <name>Fireworks</name>
+      <source>CPSC(’13)</source>
+      <mortality>7</mortality>
+      <definition>Unintentional fatal injuries from the discharge of fireworks.</definition>
+      <time_scale>per year /</time_scale>
+      <location>US</location>
+      <image>Fireworks</image>
+      <resource>http://www.cpsc.gov/en/Research--Statistics/Fuel-Lighters-and-Fireworks1/Fuel-Lighters-and-Fireworks-Reports/Injury-Statistics/</resource>
+    </Card>    
+    <Card>
+      <name>Waterborne Diseases</name>
+      <source>CDC(’09-’10)</source>
+      <mortality>5</mortality>
+      <definition>Waterborne diseases acquired through U.S. drinking water</definition>
+      <time_scale>per year /</time_scale>
+      <location>US</location>
+      <image>Waterborne Diseases</image>
+      <resource>http://www.cdc.gov/mmwr/preview/mmwrhtml/mm6235a3.htm</resource>
+    </Card>
+    <Card>
+      <name>Bus Accidents</name>
+      <source>DoT(’04-’13)</source>
+      <mortality>44</mortality>
+      <definition>Fatalities for bus passengers or employees that result from unintended collision with another motor vehicle, an object, or a person.</definition>
+      <time_scale>per year /</time_scale>
+      <location>US</location>
+      <image>Bus Accidents</image>
+      <resource>http://www.rita.dot.gov/bts/sites/rita.dot.gov.bts/files/publications/national_transportation_statistics/html/table_02_01.html_mfd</resource>
+    </Card>
+    <Card>
+      <name>Commercial Airline Crashes</name>
+      <source>NTSB(’03-’13)</source>
+      <mortality>15</mortality>
+      <definition>Deaths resulting from commercial airplane crashes (not including military or private planes).</definition>
+      <time_scale>per year /</time_scale>
+      <location>US</location>
+      <image>Commerical Airliners</image>
+      <resource>http://www.ntsb.gov/_layouts/ntsb.aviation/index.aspx</resource>
+    </Card>
+  </deck>
+</ContentPack>
